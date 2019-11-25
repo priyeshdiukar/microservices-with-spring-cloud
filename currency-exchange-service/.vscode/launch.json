@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CurrencyExchangeServiceApplication",
+            "request": "launch",
+            "mainClass": "com.microservices.currencyexchangeservice.CurrencyExchangeServiceApplication",
+            "projectName": "currency-exchange-service"
+        }
+    ]
+}
