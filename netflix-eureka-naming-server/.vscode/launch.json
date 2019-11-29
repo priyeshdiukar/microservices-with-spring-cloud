@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - NetflixEurekaNamingServerApplication",
+            "request": "launch",
+            "mainClass": "com.microservices.netflixeurekanamingserver.NetflixEurekaNamingServerApplication",
+            "projectName": "netflix-eureka-naming-server"
+        }
+    ]
+}
