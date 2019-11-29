@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - NetflixZuulApiGatewayServerApplication",
+            "request": "launch",
+            "mainClass": "com.microservices.netflixzuulapigatewayserver.NetflixZuulApiGatewayServerApplication",
+            "projectName": "netflix-zuul-api-gateway-server"
+        }
+    ]
+}
