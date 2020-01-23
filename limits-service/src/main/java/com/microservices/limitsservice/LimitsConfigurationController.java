@@ -18,7 +18,6 @@ public class LimitsConfigurationController {
         return new LimitConfiguration(configuration.getMinimum(), configuration.getMaximum());
     }
 
-    // does not work...
     @HystrixCommand(fallbackMethod ="fallbackRetrieveConfiguration")
     @GetMapping("/fault-tolerance-example")
     public LimitConfiguration retrieveConfiguration() {
